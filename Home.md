@@ -9,7 +9,6 @@ layout: home
     <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);"> Portfolio of Data Analytics Projects</h1>
 </div>
 
-# Portfolio of Data Analytics Projects
 
 Welcome to my portfolio page, where I showcase my expertise in building interactive dashboards using Python and several of its powerful libraries and frameworks. My projects are centered around leveraging Plotly Dash, Streamlit, SQL and PowerBI to transform complex datasets into actionable insights through intuitive visualizations.
 
