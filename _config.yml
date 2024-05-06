@@ -4,8 +4,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 #https://khandoker09.github.io/khandoker/
 show_excerpts: false # set to true to show excerpts on the homepage
-#baseurl: "/khandoker" # the subpath of your site, e.g. /blog
-url: "https://tanjim.net/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/khandoker" # the subpath of your site, e.g. /blog
+url: "https://khandoker09.github.io/datascience_portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 
 #github_username:  Khandoker09
