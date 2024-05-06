@@ -9,7 +9,7 @@ Feel free to reach out to me for any inquiries, collaborations, or just to say h
 
 ## Direct Contact
 
-- [**Email**:](mailto:alttanjim@gmail.com)
+- [**Email**](mailto:alttanjim@gmail.com)
 
 ## Address
 
@@ -20,8 +20,8 @@ Feel free to reach out to me for any inquiries, collaborations, or just to say h
 
 While this section does not currently include specific links, you can add your social media handles as follows if applicable:
 
-- [**LinkedIn**:](https://www.linkedin.com/in/khandokerahammad/)
-- [**GitHub**:](https://github.com/Khandoker09)
+- [**LinkedIn**](https://www.linkedin.com/in/khandokerahammad/)
+- [**GitHub**](https://github.com/Khandoker09)
 
 ## Additional Information
 
