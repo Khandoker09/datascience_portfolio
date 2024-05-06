@@ -44,3 +44,13 @@ This app has two analysis options which are the following:
 * Delete specific rows.
 * Export after cleaning the data.
 ---
+# 3. Value at Risk calculation app-v0.1-[link](https://github.com/Khandoker09/Value-at-Risk-Analysis)
+This is a simple app to calculate value at risk for a number of companies Based on historical data
+Tips: Use at least more than one company to create a portfolio otherwise this code will not work
+
+# What is the conditional value at risk?
+Conditional value-at-risk (CVaR) is the extended risk measure of value-at-risk that 
+quantifies the average loss over a specified time period of unlikely scenarios beyond 
+the confidence level.
+### Using this tool we can do the following:
+* possible to calulate VAR for any company
