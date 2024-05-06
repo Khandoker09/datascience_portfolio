@@ -14,7 +14,7 @@ Welcome to my portfolio page, where I showcase my expertise in building interact
 
 ## About Me
 
-I am a data analyst with a passion for exploring data and revealing its stories. My academic background in Engineering combined with my practical experience in data analytics enables me to craft solutions that drive decision-making processes.
+I am a data analyst with a passion for exploring data and revealing its stories. With A master's degree in Engineering combined with my practical experience in data analytics enables me to craft solutions that drive decision-making processes.
 
 ---
 ## Expertise
@@ -27,21 +27,7 @@ I am a data analyst with a passion for exploring data and revealing its stories.
 - **Analytics**: Data Visualization, Finding Key Performance Indicators (KPIs)
 
 ---
-## Education
 
-**MSc in Microsystems and Microelectronics (MEMS)**
-Technology University Hamburg (TUHH)/Graduated: Feb 2024
-- Masters Project: New product Development strategy: Topic modelling based 
-on Latent Dirichlet Allocation Algorithms (**NLP**).
-- Master Thesis: Noise detection in High Density Point Cloud Data from a White Light Interferometer using **deep learning**. 
-- Focus: **Machine Learning**, and **Data Science** 
-
-**BSc in Electrical and Electronic Engineering (EEE)**
-American International University – Bangladesh (AIUB)/Graduated: Feb 2016
-- Bachelor Thesis: Mapping of Mammalian Purkinje Network on an Electrically Equivalent Circuit
-- Focus: Electronics and Image Data 
-
----
 ## Interests
 
 I am passionate about:
