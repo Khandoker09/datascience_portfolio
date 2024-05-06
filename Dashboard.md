@@ -1,5 +1,5 @@
 ---
-title: Dashboard
+title: Dashboard Project(Python)
 layout: Dashboard
 ---
 
