@@ -1,6 +1,6 @@
 ---
 title: PowerBI
-layout: PowerBI
+layout: page
 ---
 
 <div style="width: 100%; display: flex; background: #f8f9fa; padding: 10px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
