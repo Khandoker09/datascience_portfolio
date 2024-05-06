@@ -1,5 +1,5 @@
 ---
-title: Educational Backgroud 
+title: Educational Background 
 layout: page
 
 ---
@@ -11,9 +11,9 @@ Welcome to the Education section of my portfolio. Here, you will find detailed i
 
 **MSc in Microsystems and Microelectronics (MEMS)**  
 Technology University Hamburg (TUHH) — Graduated: Feb 2024  
-- **Master's Project**: New product Development strategy: Topic modelling based on Latent Dirichlet Allocation Algorithms (NLP).
-- **Master Thesis**: Noise detection on High Density Point Cloud Data from a White Light Interferometer using deep learning.
-- Focused on advancing skills in computer vision, machine learning, and data science to tackle complex technological challenges.
+- **Master's Project**: New product Development strategy: Topic modeling based on Latent Dirichlet Allocation Algorithms (**NLP**).
+- **Master Thesis**: Noise detection on High-Density Point Cloud Data from a White Light Interferometer using **deep learning**.
+- Focused on advancing skills in **computer vision**, **machine learning**, and **data science** to tackle complex technological challenges.
 
 **BSc in Electrical and Electronic Engineering (EEE)**  
 American International University – Bangladesh (AIUB) — Graduated: Feb 2016  
