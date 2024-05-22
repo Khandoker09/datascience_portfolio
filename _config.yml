@@ -59,6 +59,7 @@ header_pages:
  - Dashboard.md
  - SQL.md
  - PowerBI.md
+ - ml.md
  - education.md
  - contact.md
 # Build settings
