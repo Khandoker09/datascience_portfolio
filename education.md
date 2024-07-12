@@ -1,11 +1,11 @@
 ---
-title: Educational Background 
+title: Academic Qualifications 
 layout: page
 
 ---
-# Education Background
+# Academic Qualifications
 
-Welcome to the Education section of my portfolio. Here, you will find detailed information about my academic journey, which has equipped me with the foundational skills and specialized knowledge necessary to excel in the field of technology, specifically in microsystems, microelectronics, computer vision, and data science.
+Explore this section to learn about my educational achievements. My academic path has furnished me with essential skills and in-depth expertise in technology. I've concentrated on areas such as microelectronics, computer vision, data science, and drone technology, all of which have prepared me to thrive in these innovative fields.
 
 ## Education
 
